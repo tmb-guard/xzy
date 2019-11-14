@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# [press me](https://tmb-guard.github.io/xzy/)
 
-You can use the [editor on GitHub](https://github.com/tmb-guard/xzy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Добро пожаловать на страницы GitHub
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Вы можете использовать [редактор на GitHub] (https://github.com/tmb-guard/xzy/edit/master/README.md) для поддержки и предварительного просмотра содержимого вашего сайта в файлах Markdown.
 
-### Markdown
+Всякий раз, когда вы фиксируете этот репозиторий, GitHub Pages будет запускать [Jekyll] (https://jekyllrb.com/), чтобы перестраивать страницы на вашем сайте из содержимого ваших файлов Markdown.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Уценка
 
-```markdown
-Syntax highlighted code block
+Markdown - это легкий и простой в использовании синтаксис для стилизации вашего письма. Он включает в себя конвенции для
 
-# Header 1
-## Header 2
-### Header 3
+`` `Уценки
+Синтаксис выделенный блок кода
 
-- Bulleted
-- List
+# Заголовок 1
+## Заголовок 2
+### Заголовок 3
 
-1. Numbered
-2. List
+- маркированный
+- список
 
-**Bold** and _Italic_ and `Code` text
+1. пронумерованы
+2. Список
 
-[Link](url) and ![Image](src)
-```
+** Жирный ** и текст _Italic_ и `Code`
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Ссылка] (URL) и! [Изображение] (SRC)
+`` `
 
-### Jekyll Themes
+Для получения дополнительной информации см. [GitHub Flavored Markdown] (https://guides.github.com/features/mastering-markdown/).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tmb-guard/xzy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Джекил Темы
 
-### Support or Contact
+Ваш сайт будет использовать макет и стили из темы Jekyll, которую вы выбрали в [настройках репозитория] (https://github.com/tmb-guard/xzy/settings). Имя этой темы сохраняется в файле конфигурации Jekyll `_config.yml`.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Поддержка или контакт
+
+Возникли проблемы со страницами? Ознакомьтесь с нашей [документацией] (https://help.github.com/categories/github-pages-basics/) или [обратитесь в службу поддержки] (https://github.com/contact), и мы поможем вам разобраться в этом вне.
